@@ -1,4 +1,4 @@
-# lab15
+# lab15 - web bulletin board with servlets
 
 ## Install Tomcat
 
